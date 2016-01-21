@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.2.2'
+ruby '2.2.3'
 
 gem 'nokogiri'
 gem 'byebug'
@@ -12,5 +12,3 @@ group :test do
   gem 'rspec-its'
   gem 'rspec-collection_matchers'
 end
-
-
